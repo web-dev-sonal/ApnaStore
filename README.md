@@ -11,3 +11,10 @@
     - Update customer information
     - Delete a customer
     - More functionality will be added
+
+#Tools and technologies used 
+ - Java, HTML, Bootstrap
+ - Spring boot 
+ - Thymleaf -> template engine
+ - MySQL database
+ - JDBC template
